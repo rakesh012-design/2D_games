@@ -1,0 +1,1 @@
+width-flappy_bird_rect.width
